@@ -6,7 +6,7 @@
 # package.
 
 """Reading information from Affymetrix CEL files version 3 and 4."""
-
+#Brian Ebrahimi
 
 import struct
 
